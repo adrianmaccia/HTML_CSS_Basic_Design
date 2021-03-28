@@ -1,0 +1,48 @@
+body {
+    background-color: #65bd49;
+}
+
+.container {
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.loginbox {
+    width: 400px;
+    height: 400px;   
+    box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.28);
+    background-color: white;
+}
+
+.input {
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+input[type=text] {
+    width: 300px;
+    padding: 15px;   
+    margin: 10px;
+    border: none;
+    background-color: rgb(228, 228, 228);
+}
+
+/*unsure why login button using 300px does not have same length as input field being 300px */
+
+button{   
+    width: 330px;   
+    padding: 15px;   
+    margin: 10px;
+    color: white;   
+    border: none;
+    background-color: #4CAF50;     
+}   
+
+a{
+    color: green;
+    text-decoration: none;
+}

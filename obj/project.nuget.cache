@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YaQVpb8tW2e/Ff46fd5n8ghLLIjKb0urk8NtqngFZDtP+c0MmnEsZ+xHOdcG8gmxZ1b9BQq9FEKO7Lrb1YkOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian\\desktop\\Basic_Design\\Basic_Design.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
